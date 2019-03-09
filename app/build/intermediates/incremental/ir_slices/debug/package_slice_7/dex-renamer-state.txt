@@ -1,0 +1,4 @@
+#Thu Mar 07 23:48:27 IST 2019
+base.0=C\:\\Users\\DELL\\Desktop\\Project\\Professor_DK-master\\Keyme\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
